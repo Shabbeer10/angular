@@ -52,9 +52,9 @@ This repository documents my journey of learning **AngularJS**, the popular Java
 
 ## Resources
 
-AngularJS Official Documentation
-W3Schools AngularJS Tutorial
-MDN Web Docs
+- AngularJS Official Documentation
+- W3Schools AngularJS Tutorial
+- MDN Web Docs
 
 ## Contact
 
